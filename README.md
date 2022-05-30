@@ -22,3 +22,22 @@ En MSDOS en la misma carpeta frec.exe , fc.csv
 donde: 
 * fc.csv tiene dos columnas fc y edad
 * resultados.txt es la información generada por la aplicación
+
+#### Referencias
+
+15. 	Rust Language. Install Rust - Rust Programming Language, rustc 1.60.0 (7737e0b5c 2022-04-04) [Internet]. 2022 [cited 2022 May 24]. Available from: https://www.rust-lang.org/tools/install
+16. 	Rust Language. petal_clustering - Rust [Internet]. Version 0.5.1. 2022 [cited 2022 May 24]. Available from: https://docs.rs/petal-clustering/latest/petal_clustering/
+17. 	Khan K, Rehman SU, Aziz K, Fong S, Sarasvady S, Vishwa A. DBSCAN: Past, present and future. 5th International Conference on the Applications of Digital Information and Web Technologies, ICADIWT 2014. 2014;232–8. 
+18. 	Schubert E, Sander J, Ester M, Kriegel HP, Xu X. DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN. ACM Trans Database Syst [Internet]. 2017 Jul 1 [cited 2022 May 27];42(3):19:1-19:21. Available from: https://api.semanticscholar.org/CorpusID:5156876#id-name=S2CID
+19. 	Robergs R, Landwehr R. La sorprendente Historia de la Ecuación (FC máx. = 220 – edad). G-SE [Internet]. 2003 Feb 2 [cited 2022 May 27];0. Available from: https://g-se.com/la-sorprendente-historia-de-la-ecuacion-fc-max.-220-edad-67-sa-457cfb270ee0c9
+20. 	No-Ko. FRECUENCIA CARDÍACA MÁXIMA: ¿QUÉ ES? ¿COMO CALCULARLA? | FADE [Internet]. FADE saludable. 2022 [cited 2022 May 27]. Available from: http://fadesaludable.es/2017/02/23/frecuencia-cardiaca-maxima-que-es-como-calcularla/
+21. 	Miragaya MA, Magri OF. Ecuación más conveniente para predecir FCM esperada en esfuerzo Ecuación más conveniente para predecir frecuencia cardíaca máxima esperada en esfuerzo. Insuf Card [Internet]. 2016 [cited 2022 May 27];11(2):56–61. Available from: http://www.insuficienciacardiaca.org
+22. 	Engelmann P. Simple Linear Regression from Scratch in Rust - CodeProject [Internet]. 2018 [cited 2022 May 26]. Available from: https://www.codeproject.com/Articles/1271862/Simple-Linear-Regression-from-Scratch-in-Rust
+23. 	Statistics How To. Mean Squared Error: Definition and Example - Statistics How To [Internet]. 2022 [cited 2022 May 26]. Available from: https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-squared-error/
+24. 	NZ Maths. Residual (in linear regression) | NZ Maths [Internet]. New Zealand Government. 2022 [cited 2022 May 26]. Available from: https://nzmaths.co.nz/category/glossary/residual-linear-regression
+25. 	Gohar U. How to use Residual Plots for regression model validation? | by Usman Gohar | Towards Data Science [Internet]. Using residual plots to validate your regression models. 2020 [cited 2022 May 26]. Available from: https://towardsdatascience.com/how-to-use-residual-plots-for-regression-model-validation-c3c70e8ab378
+26. 	Bhandari A. Difference Between R-Squared and Adjusted R-Squared [Internet]. 2020 [cited 2022 May 26]. Available from: https://www.analyticsvidhya.com/blog/2020/07/difference-between-r-squared-and-adjusted-r-squared/
+27. 	Trujillo-Ortiz A, Hernandez-Walls R. D’Agostino-Pearson’s K2 test for assessing normality of data using skewness and kurtosis. [Internet]. A MATLAB file. Facultad de Ciencias Marinas, Universidad Autónoma de Baja California, Apdo. Postal 453, Ensenada, Baja California. 2003 [cited 2022 May 28]. Available from: https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/46548/versions/2/previews/Codes_data_publish/Codes/Dagostest.m/index.html
+28. 	D’Agostino’s K-squared test - Wikipedia [Internet]. 2022 [cited 2022 May 28]. Available from: https://en.wikipedia.org/wiki/D%27Agostino%27s_K-squared_test
+29. 	Kenton W. Durbin Watson Statistic Definition [Internet]. CORPORATE FINANCE & ACCOUNTING  FINANCIAL ANALYSIS. 2021 [cited 2022 May 28]. Available from: https://www.investopedia.com/terms/d/durbin-watson-statistic.asp
+
