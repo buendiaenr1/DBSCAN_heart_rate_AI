@@ -1,0 +1,22 @@
+[package]
+name = "frec"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv="1.1.6"
+itertools="0.10.3"
+plotlib="0.5.1"
+plotters = "^0.3.0"
+# dbscan
+ndarray="0.15.4"
+petal-neighbors="0.8.0"
+petal-clustering="0.5.1"
+
+#normal
+statrs="0.15.0"
+slice="0.0.4"
+rayon="1.5.3"
+
